@@ -1,0 +1,383 @@
+{
+ "repo": "jess-moss/koch-v1-1",
+ "commit": "1a553e1fa7d5404b51bbd83b99b0f7eba54888e0",
+ "files": [
+  {
+   "path": "LICENSE",
+   "sha": "12ce8578a01195c068a84e9ca33fca889e2c058f",
+   "size": 27626
+  },
+  {
+   "path": "README.md",
+   "sha": "3d6a6d583a4a6f9360da7bdd784a473af1a459f5",
+   "size": 27233
+  },
+  {
+   "path": "electrical/Wiring_Diagram_Alexander_Koch_V1.1.pdf",
+   "sha": "b55b4809f75432d6105d4e036a7d71059c8168f2",
+   "size": 36191
+  },
+  {
+   "path": "hardware/follower/STEP/Follower_Base.STEP",
+   "sha": "48a9c0906fca1de2c065a73d935aeb96187982d2",
+   "size": 254414
+  },
+  {
+   "path": "hardware/follower/STEP/Follower_Elbow_To_Wrist.STEP",
+   "sha": "ff3065cf396927f4894ca4be0736e0051970a3a9",
+   "size": 160560
+  },
+  {
+   "path": "hardware/follower/STEP/Follower_Elbow_To_Wrist_Extension.STEP",
+   "sha": "f592051ee6408a66033d869070110481c0539517",
+   "size": 206325
+  },
+  {
+   "path": "hardware/follower/STEP/Follower_Gripper_Moving_Part.STEP",
+   "sha": "ff7115f55e7381945607aaef6d9af148bad154c7",
+   "size": 182116
+  },
+  {
+   "path": "hardware/follower/STEP/Follower_Gripper_Static_Part.STEP",
+   "sha": "6d20bf3c12970194ab13eea92ad1dda151948bc5",
+   "size": 288074
+  },
+  {
+   "path": "hardware/follower/STEP/Follower_Shoulder_Rotation.STEP",
+   "sha": "4e7cdb11c7df95a2c8707ed7e81b79274a6cf793",
+   "size": 144041
+  },
+  {
+   "path": "hardware/follower/STEP/Follower_Shoulder_To_Elbow.STEP",
+   "sha": "038d8afdcdd2c3d8eb144faf07cbe59940f81b5f",
+   "size": 253721
+  },
+  {
+   "path": "hardware/follower/STL/Follower_Base.STL",
+   "sha": "e5f41834c8989e2bcc9cb9f30394fe43f00fee67",
+   "size": 226581
+  },
+  {
+   "path": "hardware/follower/STL/Follower_Elbow_To_Wrist.STL",
+   "sha": "df338646e59ff050d2994db64467ef4e229a9ecc",
+   "size": 306183
+  },
+  {
+   "path": "hardware/follower/STL/Follower_Elbow_To_Wrist_Extension.STL",
+   "sha": "3fb9a0e572872c18c563a4b6a841b28cb8a7481c",
+   "size": 303601
+  },
+  {
+   "path": "hardware/follower/STL/Follower_Gripper_Moving_Part.STL",
+   "sha": "38ebcd2d5b38f0d6262111c6db9f315703040be2",
+   "size": 46384
+  },
+  {
+   "path": "hardware/follower/STL/Follower_Gripper_Static_Part.STL",
+   "sha": "13c3d2f878ed52a597baf931a37d9a1078bbe8fd",
+   "size": 73884
+  },
+  {
+   "path": "hardware/follower/STL/Follower_Shoulder_Rotation.STL",
+   "sha": "24d027e604cadd74d94ecb082735c04ffe88736e",
+   "size": 235200
+  },
+  {
+   "path": "hardware/follower/STL/Follower_Shoulder_To_Elbow.STL",
+   "sha": "952ccf601946163fd14114e8696baeba0a7e81fe",
+   "size": 69484
+  },
+  {
+   "path": "hardware/follower/SolidWorks/Follower_Base.SLDPRT",
+   "sha": "d5f6abe558e21a095f339c309d19726e358a1901",
+   "size": 301609
+  },
+  {
+   "path": "hardware/follower/SolidWorks/Follower_Elbow_To_Wrist.SLDPRT",
+   "sha": "859f03fcbfdf85f0995e95ab4d65fef00228f9d7",
+   "size": 144061
+  },
+  {
+   "path": "hardware/follower/SolidWorks/Follower_Elbow_To_Wrist_Extension.SLDPRT",
+   "sha": "3ad725f25379f0f1dbea3bcb28097f2d517422d7",
+   "size": 275109
+  },
+  {
+   "path": "hardware/follower/SolidWorks/Follower_Gripper_Moving_Part.SLDPRT",
+   "sha": "71819cce8892c0c6ffe2bbd610e317f99f492144",
+   "size": 202415
+  },
+  {
+   "path": "hardware/follower/SolidWorks/Follower_Gripper_Static_Part.SLDPRT",
+   "sha": "d8b03e03a6f591627349d460d558decc4935fd3f",
+   "size": 371355
+  },
+  {
+   "path": "hardware/follower/SolidWorks/Follower_Shoulder_Rotation.SLDPRT",
+   "sha": "f4d94db264d142552cc810436cc20261b5cd7a1d",
+   "size": 205729
+  },
+  {
+   "path": "hardware/follower/SolidWorks/Follower_Shoulder_To_Elbow.SLDPRT",
+   "sha": "0fbf4ea7f8a4d7ad8d70bcc5349d939e242e3bd5",
+   "size": 239339
+  },
+  {
+   "path": "hardware/leader/STEP/Leader_Base.STEP",
+   "sha": "0aea8d2abbf0513fd5c5a01abab021bcb6c1616e",
+   "size": 261760
+  },
+  {
+   "path": "hardware/leader/STEP/Leader_Elbow_To_Wrist.STEP",
+   "sha": "6846dacf54434c9b21a6ff7ab0caed4a18df1208",
+   "size": 157920
+  },
+  {
+   "path": "hardware/leader/STEP/Leader_Elbow_To_Wrist_Extension.STEP",
+   "sha": "28bef273443d65eb2b1c7bb2f6a5561909118d64",
+   "size": 206323
+  },
+  {
+   "path": "hardware/leader/STEP/Leader_Gripper_Handle.STEP",
+   "sha": "3412d5e492b409d64a88493eb5b0a900e9105fc8",
+   "size": 195766
+  },
+  {
+   "path": "hardware/leader/STEP/Leader_Gripper_Trigger.STEP",
+   "sha": "6a7cfad57ce84e050a0eaf12614603779372a265",
+   "size": 110491
+  },
+  {
+   "path": "hardware/leader/STEP/Leader_Platform.STEP",
+   "sha": "049b6db9033dc4a5fb902eb0d7bc47ed4486bb2d",
+   "size": 340306
+  },
+  {
+   "path": "hardware/leader/STEP/Leader_Shoulder_To_Elbow.STEP",
+   "sha": "2fd83dd612736db22735c7b16faebf92a72deada",
+   "size": 366620
+  },
+  {
+   "path": "hardware/leader/STL/Leader_Base.STL",
+   "sha": "b94bcfc00291c7a8abb36619ebd818de447261f4",
+   "size": 448676
+  },
+  {
+   "path": "hardware/leader/STL/Leader_Elbow_To_Wrist.STL",
+   "sha": "f75af75e286a95bd21e5deb09b0036a1b2e5b17c",
+   "size": 306182
+  },
+  {
+   "path": "hardware/leader/STL/Leader_Elbow_To_Wrist_Extension.STL",
+   "sha": "a54a9eeed0334691cd97bbd81aa7ccaa9b9293c5",
+   "size": 303603
+  },
+  {
+   "path": "hardware/leader/STL/Leader_Gripper_Handle.STL",
+   "sha": "c6da9401dc53255e99b6316ef9729b06714980b6",
+   "size": 82084
+  },
+  {
+   "path": "hardware/leader/STL/Leader_Gripper_Trigger.STL",
+   "sha": "73ed0bda0d24c4fb5a9577531408bb6da3add251",
+   "size": 36784
+  },
+  {
+   "path": "hardware/leader/STL/Leader_Platform.STL",
+   "sha": "bf2e5636a15d84e7214f149333281eafb0c6493a",
+   "size": 66984
+  },
+  {
+   "path": "hardware/leader/STL/Leader_Shoulder_To_Elbow.STL",
+   "sha": "7febc8194795ea2a90eafa31664dbae71ddf0dbb",
+   "size": 82184
+  },
+  {
+   "path": "hardware/leader/SolidWorks/Leader_Base.SLDPRT",
+   "sha": "5e7d525107869fb8d69bca5487fb42c49d22f957",
+   "size": 246260
+  },
+  {
+   "path": "hardware/leader/SolidWorks/Leader_Elbow_To_Wrist.SLDPRT",
+   "sha": "fcbaa1910cc59789eafffe42e359a739ab660db6",
+   "size": 157867
+  },
+  {
+   "path": "hardware/leader/SolidWorks/Leader_Elbow_To_Wrist_Extension.SLDPRT",
+   "sha": "67a07f8c5cbb1a879037bb8ecee614387348ee61",
+   "size": 274978
+  },
+  {
+   "path": "hardware/leader/SolidWorks/Leader_Gripper_Handle.SLDPRT",
+   "sha": "a0b0f5b0ec94ab6f22d60b5dfe0654735556a818",
+   "size": 231600
+  },
+  {
+   "path": "hardware/leader/SolidWorks/Leader_Gripper_Trigger.SLDPRT",
+   "sha": "032f177a76bdf2a1200e35c0c65d60d7e67b9895",
+   "size": 158297
+  },
+  {
+   "path": "hardware/leader/SolidWorks/Leader_Platform.SLDPRT",
+   "sha": "1766bedacb82c4a2bd0a3c960a7d6dd53932ea32",
+   "size": 294257
+  },
+  {
+   "path": "hardware/leader/SolidWorks/Leader_Shoulder_To_Elbow.SLDPRT",
+   "sha": "39ad8f8e329cff0085146e9716a3869873b8615a",
+   "size": 474655
+  },
+  {
+   "path": "pictures/Follower_And_Leader_Arm.jpg",
+   "sha": "36dba977b4f433f0a1dbb09a9ae97a8f2127fd32",
+   "size": 2162610
+  },
+  {
+   "path": "pictures/Follower_SW_Render.png",
+   "sha": "ec669c50058fd3605d28f2494d8314e46b73302a",
+   "size": 158523
+  },
+  {
+   "path": "pictures/Leader_SW_Render.png",
+   "sha": "83e719d08e0eed13e9f7947e7c5d9f478c04a23c",
+   "size": 146838
+  },
+  {
+   "path": "pictures/Platform_Assembly_Video.gif",
+   "sha": "0e9e6131b12602e164d33dc6ec24b3cef6d71652",
+   "size": 740913
+  }
+ ],
+ "excluded": [
+  {
+   "path": "hardware/extras/STL/HuggingFace_Block.STL",
+   "sha": "15ea5537d2b8db3293505d08f2094dcec36e1650",
+   "reason": "brand-logo blocks (third-party trademarks), optional props -> excluded"
+  },
+  {
+   "path": "hardware/extras/STL/LeRobot_Block.STL",
+   "sha": "0bce9a8915a32781ab7c833e2f2a49b18efb8c41",
+   "reason": "brand-logo blocks (third-party trademarks), optional props -> excluded"
+  },
+  {
+   "path": "hardware/extras/SolidWorks/HuggingFace_Block.SLDPRT",
+   "sha": "1829155dcff421a07de4bcc1ec6c428bf7fb9000",
+   "reason": "brand-logo blocks (third-party trademarks), optional props -> excluded"
+  },
+  {
+   "path": "hardware/extras/SolidWorks/LeRobot_Block.SLDPRT",
+   "sha": "4c2f54d9a089d99c599d3b50b320c9c73c8b4987",
+   "reason": "brand-logo blocks (third-party trademarks), optional props -> excluded"
+  },
+  {
+   "path": "hardware/follower/STEP/Robotis_DYNAMIXEL_XL330_M288_T.STEP",
+   "sha": "4c1d91042dc75c35a29a4fadd5eea267855b3d9f",
+   "reason": "ROBOTIS component/frame model (or modified ROBOTIS frame); ROBOTIS CAD license not stated -> unclear, excluded"
+  },
+  {
+   "path": "hardware/follower/STEP/Robotis_DYNAMIXEL_XL430_Spacer.STEP",
+   "sha": "4d75aa0253e3afcffe489de14103ee8f368b46f2",
+   "reason": "ROBOTIS component/frame model (or modified ROBOTIS frame); ROBOTIS CAD license not stated -> unclear, excluded"
+  },
+  {
+   "path": "hardware/follower/STEP/Robotis_DYNAMIXEL_XL430_W250_T.STEP",
+   "sha": "917847bbe3f127de34534753be1d83c0802191e9",
+   "reason": "ROBOTIS component/frame model (or modified ROBOTIS frame); ROBOTIS CAD license not stated -> unclear, excluded"
+  },
+  {
+   "path": "hardware/follower/STEP/Robotis_FPX330_H101.STEP",
+   "sha": "76e5534ada836cae1d642f1dc626a2dd809b598c",
+   "reason": "ROBOTIS component/frame model (or modified ROBOTIS frame); ROBOTIS CAD license not stated -> unclear, excluded"
+  },
+  {
+   "path": "hardware/follower/STEP/Robotis_HN11_I101.STEP",
+   "sha": "ffb345be45370a9e1219022dbdb1299b5989622b",
+   "reason": "ROBOTIS component/frame model (or modified ROBOTIS frame); ROBOTIS CAD license not stated -> unclear, excluded"
+  },
+  {
+   "path": "hardware/follower/SolidWorks/Robotis_DYNAMIXEL_XL330_M288_T.SLDPRT",
+   "sha": "81f7211e7c4bfd97da028fac8be8d5eb6bd0d0d6",
+   "reason": "ROBOTIS component/frame model (or modified ROBOTIS frame); ROBOTIS CAD license not stated -> unclear, excluded"
+  },
+  {
+   "path": "hardware/follower/SolidWorks/Robotis_DYNAMIXEL_XL430_Spacer.SLDPRT",
+   "sha": "3e118ae30e70ec46c356a4e977c5ee1e23bdfba4",
+   "reason": "ROBOTIS component/frame model (or modified ROBOTIS frame); ROBOTIS CAD license not stated -> unclear, excluded"
+  },
+  {
+   "path": "hardware/follower/SolidWorks/Robotis_DYNAMIXEL_XL430_W250_T.SLDPRT",
+   "sha": "7605c67669b046409f0562f4e4d470c989bbe71d",
+   "reason": "ROBOTIS component/frame model (or modified ROBOTIS frame); ROBOTIS CAD license not stated -> unclear, excluded"
+  },
+  {
+   "path": "hardware/follower/SolidWorks/Robotis_FPX330_H101.SLDPRT",
+   "sha": "1d3bce70cf1baff95fa3d116194c18827d80bad0",
+   "reason": "ROBOTIS component/frame model (or modified ROBOTIS frame); ROBOTIS CAD license not stated -> unclear, excluded"
+  },
+  {
+   "path": "hardware/follower/SolidWorks/Robotis_HN11_I101.SLDPRT",
+   "sha": "a730e8515815ae63a99ba09ae7fd417eda266d12",
+   "reason": "ROBOTIS component/frame model (or modified ROBOTIS frame); ROBOTIS CAD license not stated -> unclear, excluded"
+  },
+  {
+   "path": "hardware/leader/STEP/Leader_Robotis_FPX330_H101.STEP",
+   "sha": "41fb2b418668f47bc617524caaefae9bbe655f41",
+   "reason": "ROBOTIS component/frame model (or modified ROBOTIS frame); ROBOTIS CAD license not stated -> unclear, excluded"
+  },
+  {
+   "path": "hardware/leader/STEP/Robotis_DYNAMIXEL_XL330_M077_T.STEP",
+   "sha": "55fd42a38795f840bb5649f17797254ffa423d89",
+   "reason": "ROBOTIS component/frame model (or modified ROBOTIS frame); ROBOTIS CAD license not stated -> unclear, excluded"
+  },
+  {
+   "path": "hardware/leader/STEP/Robotis_FPX330_S101.STEP",
+   "sha": "3205b199dcadd0c956b7d04efbd05e9f77efc8cd",
+   "reason": "ROBOTIS component/frame model (or modified ROBOTIS frame); ROBOTIS CAD license not stated -> unclear, excluded"
+  },
+  {
+   "path": "hardware/leader/STL/Robotis_FPX330_S101.STL",
+   "sha": "ec7ca560e376716958de2c3fd892aefdac6c0296",
+   "reason": "ROBOTIS component/frame model (or modified ROBOTIS frame); ROBOTIS CAD license not stated -> unclear, excluded"
+  },
+  {
+   "path": "hardware/leader/SolidWorks/Leader_Robotis_FPX330_H101.SLDPRT",
+   "sha": "de1d37dd95a9b3a00e2546554e3bec3001ef8f84",
+   "reason": "ROBOTIS component/frame model (or modified ROBOTIS frame); ROBOTIS CAD license not stated -> unclear, excluded"
+  },
+  {
+   "path": "hardware/leader/SolidWorks/Robotis_DYNAMIXEL_XL330_M077_T.SLDPRT",
+   "sha": "a2cc551fd2e786b17b731e0bcff1b4668fc56d00",
+   "reason": "ROBOTIS component/frame model (or modified ROBOTIS frame); ROBOTIS CAD license not stated -> unclear, excluded"
+  },
+  {
+   "path": "hardware/leader/SolidWorks/Robotis_FPX330_H101.SLDPRT",
+   "sha": "13052fd55792ed110ed784ba79d7a4f725985198",
+   "reason": "ROBOTIS component/frame model (or modified ROBOTIS frame); ROBOTIS CAD license not stated -> unclear, excluded"
+  },
+  {
+   "path": "hardware/leader/SolidWorks/Robotis_FPX330_S101.SLDPRT",
+   "sha": "e78715efe1d89c48ac202c65b1652f2dec66b484",
+   "reason": "ROBOTIS component/frame model (or modified ROBOTIS frame); ROBOTIS CAD license not stated -> unclear, excluded"
+  },
+  {
+   "path": "hardware/follower/STEP/Follower_Arm.STEP",
+   "sha": "4088231510f6d2ae3c3a09d3458817967efc9af8",
+   "reason": "full-arm assembly that embeds or references the excluded ROBOTIS motor/frame models -> unclear, excluded"
+  },
+  {
+   "path": "hardware/follower/SolidWorks/Follower_Arm.SLDASM",
+   "sha": "8b09b50085d031cda027dfe2f26edcd0d89994be",
+   "reason": "full-arm assembly that embeds or references the excluded ROBOTIS motor/frame models -> unclear, excluded"
+  },
+  {
+   "path": "hardware/leader/STEP/Leader_Arm.STEP",
+   "sha": "d683e7e0dcc78ba808408232ee6ffffcbb84219f",
+   "reason": "full-arm assembly that embeds or references the excluded ROBOTIS motor/frame models -> unclear, excluded"
+  },
+  {
+   "path": "hardware/leader/SolidWorks/Leader_Arm.SLDASM",
+   "sha": "82a2c1e834432e58cc06bf7c08cac1324c1a3a87",
+   "reason": "full-arm assembly that embeds or references the excluded ROBOTIS motor/frame models -> unclear, excluded"
+  }
+ ]
+}
