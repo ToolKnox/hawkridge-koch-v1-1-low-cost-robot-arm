@@ -51,6 +51,10 @@ Two ROBOTIS sets are bought directly from ROBOTIS and are not in the shop list:
 - Keep fingers clear of the follower gripper while it is powered.
 - Unplug power before changing cables.
 
+## Bill of Material
+
+[Bill of Material (PDF)](docs/Koch%20v1.1%20Robot%20Arm%20Pair%20-%20Bill%20of%20Material.pdf): every part to buy, with shop links.
+
 ## Documentation download
 
 This repository is the documentation and source download for the build.
